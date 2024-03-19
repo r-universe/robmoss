@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/robmoss/robmoss.r-universe.dev
 	branch = HEAD
+[submodule "spleenrbc"]
+	path = spleenrbc
+	url = https://gitlab.unimelb.edu.au/rgmoss/malaria-spleen-rbc-loss
